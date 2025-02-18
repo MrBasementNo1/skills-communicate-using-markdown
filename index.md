@@ -1,5 +1,3 @@
-# Hello World
-###### Testing the Markdown header 6
-__Hello World again__
+![Image of a whale](https://www.bbc.co.uk/newsround/articles/cx2k9r8m958o)
 
-I changed sth to look good
+A perfect representation of a whale!
