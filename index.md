@@ -12,3 +12,7 @@ var myVar = "Hello, world!";
 ``` python
 int myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Learn how to use markdown
