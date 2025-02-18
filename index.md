@@ -1,3 +1,3 @@
-![Image of a whale](https://www.bbc.co.uk/newsround/articles/cx2k9r8m958o)
+![Image of a whale](https://octodex.github.com/images/yaktocat.png)
 
-A perfect representation of a whale!
+A perfect representation of an odd cat?
